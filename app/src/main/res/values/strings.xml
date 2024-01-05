@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IT21201714</string>
+    <string name="tvTitle">Student List</string>
+    <string name="btnAdd">Add Student</string>
+    <string name="alertTitle">Enter Student Details: </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvTitle2">Student Page</string>
+    <string name="tvDetail">Get Student Details</string>
+    <string name="tvModule">Get Module Details</string>
+
+    <string name="btnDetail">Profile</string>
+    <string name="btnImage">Module</string>
+    <string name="stid_hint">Enter Student ID</string>
+    <string name="stName">Student Name:</string>
+    <string name="edtAge">Student Age:</string>
+    <string name="stID">Enter Student ID:</string>
+    <string name="stdName">Enter Student Name:</string>
+    <string name="stdAge">Enter Student Age:</string>
+    <string name="Mo1">Enter Module 1:</string>
+    <string name="Mo2">Enter Module 2:</string>
+    <string name="Mo3">Enter Module 3:</string>
+    <string name="Mo4">Enter Module 4:</string>
+    <string name="Mo5">Enter Module 5:</string>
+    <string name="Mo6">Enter Module 6:</string>
+    <string name="FMo1">Module 1:</string>
+    <string name="FMo2">Module 2:</string>
+    <string name="FMo3">Module 3:</string>
+    <string name="FMo4">Module 4:</string>
+    <string name="FMo5">Module 5:</string>
+    <string name="FMo6">Module 6:</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnFind">Find Details</string>
+    <string name="tvSTID">Student Id</string>
+    <string name="tvName">Name</string>
+    <string name="tvAge">Age</string>
+</resources>
